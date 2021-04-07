@@ -33,6 +33,37 @@
     padding: 10px;
 }
 
+/* project section */
+#projects {
+    background-color: #eee;
+    min-height: 1020px;
+}
+
+#projects h2 {
+    margin: 20px;
+    text-align: center;
+}
+
+#projects a {
+    position: relative;
+    bottom: 10px;
+    text-align: center;
+    padding: 33%
+
+}
+
+.card {
+    background-color: white;
+    margin: 10px;
+    min-height: 250px;
+    box-shadow: 0px 8px 16px grey;
+    border-radius: 10px;
+}
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
 [class*="col-"] {
     width: 100%;
   }
